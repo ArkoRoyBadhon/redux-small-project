@@ -555,19 +555,27 @@
   ],
   "cart": [
     {
+      "id": 6,
+      "title": "MacBook Pro",
+      "brand": "Apple",
+      "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+      "price": 1749,
+      "quantity": 1
+    },
+    {
       "id": 1,
       "title": "iPhone 9",
       "brand": "Apple",
       "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
       "price": 549,
-      "quantity": 1
+      "quantity": 2
     },
     {
-      "id": 4,
-      "title": "OPPOF19",
-      "brand": "OPPO",
-      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
-      "price": 280,
+      "id": 3,
+      "title": "Samsung Universe 9",
+      "brand": "Samsung",
+      "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+      "price": 1249,
       "quantity": 1
     }
   ]
